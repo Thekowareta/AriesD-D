@@ -1,0 +1,14 @@
+{
+  "Clasica": {
+    "Categoria": "2",
+    "descripcion": "kabum"
+  },
+  "Cartucho": {
+    "Categoria": "1",
+    "descripcion": "kabum kabum"
+  },
+  "Flecha": {
+    "Categoria": "3",
+    "descripcion": "Flecha comun para armas como arcos"
+  }
+}

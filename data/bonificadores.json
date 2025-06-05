@@ -1,0 +1,10 @@
+{
+  "Bono de daño": {
+    "dados": "1d15",
+    "descripcion": "binificador tets de daño"
+  },
+  "Pocion de daño": {
+    "dados": "1d15",
+    "descripcion": "añade daño a la siguiente tirada"
+  }
+}

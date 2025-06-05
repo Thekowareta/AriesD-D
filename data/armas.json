@@ -1,0 +1,66 @@
+{
+  "Daga Serval": {
+    "dados": "1d5",
+    "descripcion": "Daga que puede lanzarze",
+    "bonos": {
+      "danio": {
+        "corta": 10,
+        "media": 5,
+        "larga": 15
+      },
+      "precision": {
+        "corta": 0,
+        "media": -3,
+        "larga": -5
+      }
+    }
+  },
+  "Katana": {
+    "dados": "1d30",
+    "descripcion": "Arma perfecta para combate cercano y rapido contra un objetivo",
+    "bonos": {
+      "danio": {
+        "corta": 0,
+        "media": 0,
+        "larga": 0
+      },
+      "precision": {
+        "corta": 0,
+        "media": 0,
+        "larga": 0
+      }
+    }
+  },
+  "Espada Corta ( 3d10 )": {
+    "dados": "3d10",
+    "descripcion": "Arma de 1 mano perfecta en combates cercanos, puede ser complementado perfectamente con un escudo para poder contra atacar con la espada corta",
+    "bonos": {
+      "danio": {
+        "corta": 0,
+        "media": 0,
+        "larga": 0
+      },
+      "precision": {
+        "corta": 0,
+        "media": 0,
+        "larga": 0
+      }
+    }
+  },
+  "Espada Pesada ( 1d25 )": {
+    "dados": "1d25",
+    "descripcion": "Arma de 2 manos perfecta para dar ataques a varios enemigos que se encuentran agrupados",
+    "bonos": {
+      "danio": {
+        "corta": 0,
+        "media": 0,
+        "larga": 0
+      },
+      "precision": {
+        "corta": 0,
+        "media": 0,
+        "larga": 0
+      }
+    }
+  }
+}

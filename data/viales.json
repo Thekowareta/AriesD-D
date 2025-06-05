@@ -1,0 +1,18 @@
+{
+  "Nitro": {
+    "dados": "1d15 ie10",
+    "descripcion": "Causa Daño por nitro al enemigo, el cual causa micro explosiones dentro de este causando un gran daño en cadena."
+  },
+  "Veneno": {
+    "dados": "1d80",
+    "descripcion": "causa daño por envenamiento al enemigo"
+  },
+  "Hielo": {
+    "dados": "1d30",
+    "descripcion": "causa daño por congelamiento al enemigo"
+  },
+  "Electro": {
+    "dados": "1d20",
+    "descripcion": "causa +1 daño al enemigo (acumulable asta 5), si se llega al maximo el ultimo ataque con veneno causa un bonificador de +20 daño."
+  }
+}

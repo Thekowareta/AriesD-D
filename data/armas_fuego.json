@@ -1,0 +1,98 @@
+{
+  "Escopeta": {
+    "dados": "1 5d10 m1",
+    "descripcion": "un arma que escupe perdigones en un gran area. perfecta para combates en muy corto alcance",
+    "bonos": {
+      "danio": {
+        "corta": 30,
+        "media": 10,
+        "larga": -10
+      },
+      "precision": {
+        "corta": 5,
+        "media": 0,
+        "larga": -5
+      }
+    }
+  },
+  "Revolver": {
+    "dados": "2 1d10 m7",
+    "descripcion": "revolver",
+    "bonos": {
+      "danio": {
+        "corta": 10,
+        "media": 5,
+        "larga": -5
+      },
+      "precision": {
+        "corta": 6,
+        "media": 0,
+        "larga": -10
+      }
+    }
+  },
+  "Ballesta tactica": {
+    "dados": "3 1d25 m1",
+    "descripcion": "Una ballesta de uso militar, perfecta para ataques a media y larga distancia siendo mas efectiva dentro de este rango",
+    "bonos": {
+      "danio": {
+        "corta": -6,
+        "media": 15,
+        "larga": 20
+      },
+      "precision": {
+        "corta": -4,
+        "media": 0,
+        "larga": -3
+      }
+    }
+  },
+  "Francotirador ( 1d30 )": {
+    "dados": "1 1d30 m1",
+    "descripcion": "Un rifle de francotirador que lanza un disparo potente que puede causar gran daño alos enemigos a una gran distancia",
+    "bonos": {
+      "danio": {
+        "corta": -10,
+        "media": 10,
+        "larga": 20
+      },
+      "precision": {
+        "corta": 5,
+        "media": -3,
+        "larga": -5
+      }
+    }
+  },
+  "Pistola ( 1d5 )": {
+    "dados": "2 1d5 m5",
+    "descripcion": "Arma perfecta para combates en cortas y medias distancias, tiene la capacidad de disparar 5 disparos en rafaga",
+    "bonos": {
+      "danio": {
+        "corta": 10,
+        "media": 5,
+        "larga": -3
+      },
+      "precision": {
+        "corta": 6,
+        "media": 0,
+        "larga": -6
+      }
+    }
+  },
+  "Rifle de repetición( 2d15 )": {
+    "dados": "2 1d20 m7",
+    "descripcion": "Arma perfecta para combates en cortas y medias distancias, tiene la capacidad de disparar 7 disparos en rafaga",
+    "bonos": {
+      "danio": {
+        "corta": 10,
+        "media": 5,
+        "larga": -5
+      },
+      "precision": {
+        "corta": 6,
+        "media": 0,
+        "larga": -7
+      }
+    }
+  }
+}

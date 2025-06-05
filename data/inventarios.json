@@ -1,0 +1,25 @@
+{
+  "588223790081900554": {
+    "armas": [
+      "Daga Serval",
+      "Katana"
+    ],
+    "armas_fuego": [
+      "Escopeta",
+      "Revolver",
+      "Ballesta tactica"
+    ],
+    "bonificadores": [
+      "Pocion de daño"
+    ],
+    "viales": {
+      "Nitro": 7
+    },
+    "municiones": {
+      "Cartucho": 99,
+      "Clasica": 93,
+      "Flecha": 99
+    },
+    "miscelaneos": {}
+  }
+}
